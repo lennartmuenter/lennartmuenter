@@ -18,6 +18,7 @@
 <p align="center"> 
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/php_plain_logo_icon_146397.png" alt="php" width="40" height="40" blend=""/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/javascript_plain_logo_icon_146454.png" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_python_icon_130221.png" alt="python" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" alt="java" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_logo_icon_146374.png" alt="reactnative" width="40" height="40"/> 
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_tailwind_icon_130128.png" alt="tailwind" width="40" height="40"/>
